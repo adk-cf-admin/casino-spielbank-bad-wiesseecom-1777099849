@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#9D6111",
+            "lang-select-color": "#222829",
+            "bg-light": "#9D6111",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#ECF5FC",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#9D6111",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#ffffff",
+            "yellow": "#b8966b",
+            "yellow-button": "#102858",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#9D6111",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#9D6111",
+            "faq-label": "#9D6111",
+            "bg-footer": "#9D6111",
+            "copyright": "#e7e7d5",
+            "starColor": "#fbff00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6855"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6856",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Spielbank Bad Wiessee"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6857",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Spielbank Bad Wiessee"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Spielbank Bad Wiessee",
+                    "title": "Spielbank Bad Wiessee Casino Guidez",
+                    "description": "Entdecken Sie die Spielbank Bad Wiessee am Tegernsee: Geschichte seit 1957, klassisches Spiel, Automaten, Winner’s Lounge und Service für unsere Gäste.",
+                    "canonical": "casino-spielbank-bad-wiessee.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6858",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-spielbank-bad-wiessee.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6859"
+                },
+                "hero": {
+                    "title": "Spielbank Bad Wiessee – Casino-Erlebnis, Tradition und Unterhaltung am Tegernsee",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6860",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6861",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Erhalten",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Historie seit 1957",
+                        "Lage am Tegernsee",
+                        "Rund 500 Parkplätze",
+                        "Klassisches Spiel vor Ort",
+                        "Bühne, Bar und Casino"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Spielbank Bad Wiessee App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6862",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Spielbank Bad Wiessee App",
+                    "mobileGooglePlayImageTitle": "Spielbank Bad Wiessee App",
+                    "mobileIosImageTitle": "Spielbank Bad Wiessee App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das Casino",
+                        "description1": "",
+                        "items": [
+                            "Unsere Spielbank wurde am 4. Juni 1957 eröffnet.",
+                            "Unser Haus bietet über 6.000 qm Nutzfläche.",
+                            "Rund 200 Automaten stehen unseren Gästen zur Verfügung.",
+                            "Unser Parkhaus bietet rund 500 gebührenfreie Stellplätze.",
+                            "Unsere Winner’s Lounge ist die Eventfläche der Spielbank."
+                        ],
+                        "description2": "Unsere Geschichte in Bad Wiessee begann am 4. Juni 1957 im ehemaligen Café Bauer. Schon früh entwickelte sich unser Casino zu einem wichtigen Unterhaltungsort im Kurort Bad Wiessee, sodass der starke Besucherandrang und die wachsende Bedeutung des Ortes bald neue Perspektiven für eine Erweiterung eröffneten.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6863",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Spielbank Bad Wiessee",
+                        "description3": "Im Sommer 1967 startete der Neubau am Seeufer, der im März 1969 fertiggestellt wurde. Diese Entwicklung prägte den Charakter unserer Spielbank: Wir verbinden klassische Casino-Tradition mit der besonderen Atmosphäre des Tegernseer Tals und einem Standort, der für viele Gäste eng mit gehobener Unterhaltung verbunden ist.\n\nHeute begrüßen wir unsere Gäste an der Adresse Winner 1, 83707 Bad Wiessee. Unsere Spielbank bietet über 6.000 qm Nutzfläche; offizielle Informationen nennen außerdem Black Jack, Roulette und Poker sowie rund 200 Automaten als Teil unseres Angebots.\n\nUnser Casino ist auf ein vollständiges Besuchserlebnis ausgerichtet: Großes Spiel, Automatenspiel, die Winner’s Lounge als Eventfläche und rund 500 gebührenfreie Stellplätze im Parkhaus schaffen klare Orientierung für unsere Gäste. Das Große Spiel öffnet laut aktuellen Angaben sonntags bis donnerstags von 16.00 bis 2.00 Uhr sowie freitags und samstags von 16.00 bis 3.00 Uhr; das Automatenspiel beginnt jeweils bereits um 12.00 Uhr."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Plaisir au casino",
+                        "description": "<p>Dans notre casino de Bad Wiessee, nous accueillons nos visiteurs dans une atmosphère élégante, vivante et tournée vers le plaisir du jeu. Chez nous, l’expérience commence dès l’arrivée : le cadre au Tegernsee, la vue sur le lac et l’idylle des montagnes donnent à chaque visite une intensité particulière.<\/p> <br> <p>Notre établissement réunit les grands classiques du casino avec des tables de Roulette, de Poker et de Black Jack. Nous proposons aussi un vaste univers de machines à sous, idéal pour varier les rythmes, passer d’une sensation à l’autre et composer une soirée selon ses envies.<\/p> <br> <p>Chez nous, le Grand Jeu apporte toute la force des tables traditionnelles : concentration, élégance des gestes, suspense à chaque mise et plaisir de partager l’instant autour d’un jeu emblématique. La Roulette, le Poker et le Black Jack forment le cœur de cette expérience.<\/p> <br> <p>Notre espace de machines à sous permet de commencer la visite plus tôt dans la journée et d’entrer progressivement dans l’ambiance du casino. Nous misons sur une expérience fluide, accessible et animée, avec des horaires pensés pour accompagner les visiteurs jusque tard dans la soirée.<\/p> <br> <p>Pour offrir ou préparer une visite avec une touche festive, nous proposons le Player’s Special de Bad Wiessee. À partir de 20 € par personne, cette formule associe un verre de Haus-Prosecco et des jetons au choix, pour démarrer la soirée chez nous avec style.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#000000; background:#ffffff;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Élément confirmé\n  <\/th>\n  <th style=\"width:62%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Détail disponible chez nous\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Jeux de table\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Roulette, Poker et Black Jack\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Machines à sous\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Grande sélection de machines à sous\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Grand Jeu\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Dimanche à jeudi : 16h00–2h00 ; vendredi et samedi : 16h00–3h00\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Jeu automatique\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Dimanche à jeudi : 12h00–2h00 ; vendredi et samedi : 12h00–3h00\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Player’s Special\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Dès 20 € par personne avec un verre de Haus-Prosecco et des jetons de 20 €, 40 €, 60 €, 80 € ou 100 €\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p>Chez nous, l’ambiance fait partie intégrante du plaisir. Notre casino est présenté comme un lieu où le facteur de bien-être est élevé et où le public international contribue à une atmosphère ouverte, animée et raffinée.<\/p> <br> <p>Notre établissement met en valeur la force du lieu : le Tegernsee, la vue sur l’eau et l’environnement de montagne créent un décor qui accompagne naturellement chaque moment passé aux tables, aux machines ou dans les espaces de détente.<\/p> <br> <p>Nous donnons aussi une place importante aux amateurs de Poker. Le programme officiel de Bad Wiessee comprend notamment des formats Texas Hold’em No Limit, avec des rendez-vous de Cash Game et des tournois selon le calendrier publié.<\/p> <br> <p>Pour les joueurs qui aiment organiser leur venue, nos offres de Poker indiquent des éléments pratiques comme la variante, le début du jeu, le check-in et la possibilité de réservation en ligne sur certains créneaux. Cela aide à préparer la soirée avec confort.<\/p> <br> <p>Notre objectif est simple : réunir jeu classique, machines, ambiance soignée et formules cadeaux dans un même parcours. Chez nous, chaque visite peut devenir une sortie complète, rythmée par le jeu, le plaisir d’être au Tegernsee et l’énergie d’un casino bavarois reconnu.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Sortir chez nous",
+                        "description": "<p>Chez nous, la visite peut se prolonger naturellement autour de la gastronomie. Notre Winner’s Bistro & Bar réunit restaurant, bistro, bar et casino dans une même expérience, avec une atmosphère pensée pour savourer un repas, boire un verre et poursuivre la soirée.<\/p> <br> <p>Notre cuisine met en avant une combinaison gourmande de spécialités italiennes et de classiques internationaux. Les pizzas occupent une place forte dans notre offre, avec notamment la Pizza Jackpot, associant mozzarella de bufflonne, jambon de Parme et roquette.<\/p> <br> <p>Nous proposons aussi des steaks, des salades et des plats conçus pour les visiteurs qui veulent prendre le temps de dîner avant, pendant ou après leur expérience de jeu. Notre établissement permet ainsi de construire une soirée complète sans quitter le lieu.<\/p> <br> <p>À nos bars, nous servons notamment des cocktails classiques préparés avec soin ainsi que de la bière du Herzoglich Bayerisches Brauhaus Tegernsee. Nous créons ainsi des moments de pause agréables entre deux parties ou en fin de soirée.<\/p> <br> <p>Notre adresse est Winner 1, 83707 Bad Wiessee. Pour faciliter l’arrivée, nous mettons à disposition environ 500 places gratuites dans notre parking couvert, et l’accès en voiture se fait par l’A8, sortie Holzkirchen \/ Bad Wiessee, puis par la B318 en direction de Bad Wiessee.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#000000; background:#ffffff;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Service confirmé\n  <\/th>\n  <th style=\"width:62%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Informations pratiques\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Winner’s Bistro & Bar\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Restaurant, bistro, bar et casino avec spécialités italiennes, classiques internationaux, pizzas, steaks, salades, cocktails et bière du Tegernsee\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Horaires bistro\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Dimanche à jeudi : 16h00–23h00 ; vendredi et samedi : 16h00–1h00\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Winner’s Lounge\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Espace événementiel de 250 m² avec fenêtre panoramique, tapis rouge, éclairages modernes, spotlights, 179 places en rangs ou 131 places en configuration lounge\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Offre événement\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Avec un billet pour la Winner’s Lounge : entrée aux salles de jeu, VIP-Jetons de 4 €, un verre de Haus-Prosecco et, selon disponibilité, un jeu de démonstration à la Roulette\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Adresse et parking\n  <\/td>\n  <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:#ffffff; word-break:break-word;\">\n    Winner 1, 83707 Bad Wiessee ; environ 500 places gratuites dans notre parking couvert\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p>Notre Winner’s Lounge donne une autre dimension à la visite. Sur 250 m², nous accueillons des formats de divertissement variés, avec comedy, cabaret, shows et musique dans un décor moderne et stylé.<\/p> <br> <p>Chez nous, les événements profitent d’un cadre visuel fort : une fenêtre panoramique, un tapis rouge, des installations lumineuses modernes, des spotlights et un espace bar reconnaissable avec son éclairage magenta et ses tables lumineuses en forme de verres à cocktail.<\/p> <br> <p>Notre calendrier officiel met en avant des soirées et specials réguliers, notamment des événements scéniques, des rendez-vous musicaux, des programmes de cabaret et des animations liées à notre établissement. La Winner’s Lounge et la Waldbühne complètent ainsi l’expérience casino.<\/p> <br> <p>Nous facilitons aussi l’accès par les transports publics : l’arrivée est possible avec le bus RVO depuis Munich Hauptbahnhof-Nord ou avec la Bayerische Regiobahn depuis Munich jusqu’à Gmund, puis avec une correspondance RVO vers l’arrêt « Spielbank ».<\/p> <br> <p>Notre engagement inclut également un cadre responsable : la participation au jeu est possible à partir de 21 ans, l’accès aux salles de jeu se fait avec une pièce d’identité officielle avec photo, et nous mettons à disposition des informations dédiées au jeu responsable.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wo befindet sich die Spielbank Bad Wiessee?",
+                            "answer": "Unsere Spielbank befindet sich am Winner 1, 83707 Bad Wiessee."
+                        },
+                        {
+                            "title": "Seit wann gibt es die Spielbank Bad Wiessee?",
+                            "answer": "Unsere Geschichte begann am 4. Juni 1957 im ehemaligen Café Bauer."
+                        },
+                        {
+                            "title": "Welche klassischen Spiele bietet unser Casino?",
+                            "answer": "Offizielle Informationen nennen Black Jack, Roulette und Poker."
+                        },
+                        {
+                            "title": "Wie viele Automaten gibt es in der Spielbank Bad Wiessee?",
+                            "answer": "Offizielle Angaben nennen rund 200 Automaten für unsere Gäste."
+                        },
+                        {
+                            "title": "Gibt es Parkmöglichkeiten am Casino?",
+                            "answer": "Ja, unser Parkhaus bietet rund 500 gebührenfreie Stellplätze."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
